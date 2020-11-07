@@ -1,6 +1,6 @@
 <?php
 
-namespace Amjad\Captcha;
+namespace Amjad23\Captcha;
 
 class Captcha {
 
